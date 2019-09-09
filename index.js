@@ -8,6 +8,8 @@ function scuberGreetingForFeet(number){
   }
 }
 
+
+
 function ternaryCheckCity(){
   // Write your code here!
 }
