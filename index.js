@@ -1,7 +1,7 @@
 function scuberGreetingForFeet(number){
   let ride;
   if (ride <= number){
-    return "This one is on me!"
+    ride = "This one is on me!"
   }
   return ride
 }
