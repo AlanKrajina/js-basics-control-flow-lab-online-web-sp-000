@@ -1,9 +1,12 @@
 function scuberGreetingForFeet(number){
   let ride;
   if (ride <= number){
-    ride = "This one is on me!"
+    return "This one is on me!";
+  } else if (number > 2000 && number < 2500){
+      return 'I will gladly take your thirty bucks.';
+  } else {
+    return 'No can do.';
   }
-  return ride
 }
 
 function ternaryCheckCity(){
